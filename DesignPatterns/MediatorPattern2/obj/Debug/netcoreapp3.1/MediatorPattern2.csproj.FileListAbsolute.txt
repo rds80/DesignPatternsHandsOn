@@ -1,0 +1,13 @@
+C:\Users\rippl\OneDrive\Design Patterns\Books\DesignPatternsinCSharpAHandsOnGuideWithRealWorldExamples\DesignPatterns\MediatorPattern2\bin\Debug\netcoreapp3.1\MediatorPattern2.exe
+C:\Users\rippl\OneDrive\Design Patterns\Books\DesignPatternsinCSharpAHandsOnGuideWithRealWorldExamples\DesignPatterns\MediatorPattern2\bin\Debug\netcoreapp3.1\MediatorPattern2.deps.json
+C:\Users\rippl\OneDrive\Design Patterns\Books\DesignPatternsinCSharpAHandsOnGuideWithRealWorldExamples\DesignPatterns\MediatorPattern2\bin\Debug\netcoreapp3.1\MediatorPattern2.runtimeconfig.json
+C:\Users\rippl\OneDrive\Design Patterns\Books\DesignPatternsinCSharpAHandsOnGuideWithRealWorldExamples\DesignPatterns\MediatorPattern2\bin\Debug\netcoreapp3.1\MediatorPattern2.runtimeconfig.dev.json
+C:\Users\rippl\OneDrive\Design Patterns\Books\DesignPatternsinCSharpAHandsOnGuideWithRealWorldExamples\DesignPatterns\MediatorPattern2\bin\Debug\netcoreapp3.1\MediatorPattern2.dll
+C:\Users\rippl\OneDrive\Design Patterns\Books\DesignPatternsinCSharpAHandsOnGuideWithRealWorldExamples\DesignPatterns\MediatorPattern2\bin\Debug\netcoreapp3.1\MediatorPattern2.pdb
+C:\Users\rippl\OneDrive\Design Patterns\Books\DesignPatternsinCSharpAHandsOnGuideWithRealWorldExamples\DesignPatterns\MediatorPattern2\obj\Debug\netcoreapp3.1\MediatorPattern2.csproj.AssemblyReference.cache
+C:\Users\rippl\OneDrive\Design Patterns\Books\DesignPatternsinCSharpAHandsOnGuideWithRealWorldExamples\DesignPatterns\MediatorPattern2\obj\Debug\netcoreapp3.1\MediatorPattern2.AssemblyInfoInputs.cache
+C:\Users\rippl\OneDrive\Design Patterns\Books\DesignPatternsinCSharpAHandsOnGuideWithRealWorldExamples\DesignPatterns\MediatorPattern2\obj\Debug\netcoreapp3.1\MediatorPattern2.AssemblyInfo.cs
+C:\Users\rippl\OneDrive\Design Patterns\Books\DesignPatternsinCSharpAHandsOnGuideWithRealWorldExamples\DesignPatterns\MediatorPattern2\obj\Debug\netcoreapp3.1\MediatorPattern2.csproj.CoreCompileInputs.cache
+C:\Users\rippl\OneDrive\Design Patterns\Books\DesignPatternsinCSharpAHandsOnGuideWithRealWorldExamples\DesignPatterns\MediatorPattern2\obj\Debug\netcoreapp3.1\MediatorPattern2.dll
+C:\Users\rippl\OneDrive\Design Patterns\Books\DesignPatternsinCSharpAHandsOnGuideWithRealWorldExamples\DesignPatterns\MediatorPattern2\obj\Debug\netcoreapp3.1\MediatorPattern2.pdb
+C:\Users\rippl\OneDrive\Design Patterns\Books\DesignPatternsinCSharpAHandsOnGuideWithRealWorldExamples\DesignPatterns\MediatorPattern2\obj\Debug\netcoreapp3.1\MediatorPattern2.genruntimeconfig.cache
